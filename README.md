@@ -5,8 +5,5 @@ Brand (File name)
 
 ## Description:
 ```
-Model, year, mini-serie, mini-serie-number (if has it)
-    color, number
-    color, number
-    color, number
+Model, model_year, color, number, {mini-serie, mini-serie-number}
 ```
