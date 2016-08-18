@@ -1,9 +1,6 @@
 ## up-to-date list of HW cars
 
-## Format:
-Brand (File name)
-
 ## Description:
 ```
-Model, model_year, color, number, {mini-serie, mini-serie-number}
+Brand, Model, model_year, color, number, segment or serie, segment number, {details}
 ```
