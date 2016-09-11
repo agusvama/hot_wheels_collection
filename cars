@@ -17,6 +17,7 @@ Chrysler    , Plymouth AAR Cuda      , 1970 , purple      , 199/250 , Workshop  
 Dodge       , Challenger             , 1971 , brown       , 227/250 , Workshop         ,        ,
 Dodge       , Challenger             , 1971 , yellow      , 242/250 , Workshop         ,        , HOTCHKIS
 Dodge       , Charger                , 1969 , yellow      , 91/250  , Flames           , 1/10   ,
+Dodge       , Charger 500            , 1969 , blue        , 19/250  , City             ,        , HEMI 50 years
 Dodge       , Charger 500            , 1969 , purple      , 19/250  , City             ,        , HEMI 50 years
 Dodge       , Charger 500            , 1969 , red         , 84/250  , Night Burnerz    , 4/10   ,
 Dodge       , Charger SRT            , 2015 , white       , 130/250 , Muscle mania     , 10/10  ,
@@ -29,10 +30,11 @@ Ford        , Mustang                , 2007 , red         , 198/250 , Art cars  
 Ford        , Mustang 2+2 Fastback   , 1965 , blue        , 242/250 , Workshop         ,        ,
 Ford        , Mustang Custom         , 2012 , blue        , 240/250 , Workshop         ,        , it's blue and green
 Ford        , Mustang GT             , 2010 , yellow      , 60/250  , Mild to wild     , 5/10   ,
+Ford        , Mustang GT             , 2015 , red         , 100/250 , city             ,        ,
 Ford        , Shelby GT500           , 2010 , white       , 11/250  , City             ,        , with so many printed logos
 Ford        , Torino Talladega       , 1969 , blue        , 183/250 , Speed Graphics   , 8/10   ,
 Ford        , Torino Talladega       , 1969 , white       , 183/250 , Speed Graphics   , 8/10   ,
-Hot Wheels  , 16 Angels              ,      , pink        , 168/250 , Race             ,        , cool pink
+Hot Wheels  , 16 Angels              ,      , pink        , 168/250 , Race             ,        , cool pink color
 Hot Wheels  , 5 Alarm                ,      , red         , 6/166   ,                  ,        ,
 Hot Wheels  , Arrow Dynamic          ,      , blue        , 52/250  , Glow wheels      , 7/10   ,
 Hot Wheels  , Astro Funk             ,      , lemon       ,         , Cool classics    , 17/30  , Spectrafrost paint and metal/metal
@@ -74,7 +76,7 @@ Hot Wheels  , Velocita               ,      , blue        , 150/250 , Race      
 Hot Wheels  , Z-Rod                  ,      , silver      , 45/350  , Super chromes    , 10/10  ,
 Lamborghini , Sesto Elemento         ,      , green       , 198/250 , Workshop         ,        ,
 Matchbox    , Deep Diver             ,      , green       , 110/120 , MBX Explorers    ,        ,
-Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Construction ,        , it's white cabine and blue tank 
+Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Construction ,        , it's white cabine and blue tank
 Mazda       , MX-5 Miata             , 2015 , red         , 88/250  , Night burnerz    , 8/10   ,
 Pontiac     , GTO                    , 1967 , blue        , 228/250 , Workshop         ,        ,
 Porsche     , 911 GT3 RS             ,      , yellow      , 196/250 , Workshop         ,        ,
