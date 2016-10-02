@@ -2,7 +2,9 @@ Buick       , Grand National         ,      , black       ,         , Fast and F
 Buick       , Riviera                , 1964 , purple      , 238/250 , Showroom         ,        ,
 Buick       , Riviera                , 1971 , green       , 15/250  , City             ,        , big G on side
 Buick       , Riviera                , 1971 , red         , 15/250  , City             ,        , big G on side
+Cadillac    , Monte Carlo            , 1986 , black       , 230/250 , Workshop         ,        ,
 Chevrolet   , Camaro                 , 1969 , white       , 241/250 , Workshop         ,        , no roof
+Chevrolet   , Camaro SS              , 2010 , purple      . 59/250  , Mild to wild     , 4/10   , 
 Chevrolet   , Camaro Special Edition , 2013 , purple      , 232/250 , Workshop         ,        ,
 Chevrolet   , Chevelle               , 1969 , green       , 140/250 , Race             ,        , big 55 on the side
 Chevrolet   , Chevelle SS 396        , 1967 , purple      , 232/250 , Workshop         ,        ,
@@ -21,10 +23,11 @@ Dodge       , Charger 500            , 1969 , blue        , 19/250  , City      
 Dodge       , Charger 500            , 1969 , green       , 84/250  , Night burnerz    , 4/10   ,
 Dodge       , Charger 500            , 1969 , purple      , 19/250  , City             ,        , HEMI 50 years
 Dodge       , Charger 500            , 1969 , red         , 84/250  , Night burnerz    , 4/10   ,
+Dodge       , Charger SRT            , 2015 , red         , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Charger SRT            , 2015 , white       , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Coronet Superbee       , 1969 , purple      , 212/250 , Workshop         ,        , with green flames
 Ford        , Fiesta                 , 2012 , blue        , 157/250 , Snow Stormers    , 2/5    ,
-Ford        , Fiesta                 , 2012 , green       , 78/250  , Off-road         ,        , has son many painted logos on sides and front
+Ford        , Fiesta                 , 2012 , green       , 78/250  , Off-road         ,        , many painted logos
 Ford        , Galaxie 500            , 1964 , green       , 250/250 , Workshop         ,        ,
 Ford        , Grand Torino Sport     , 1972 , green       ,         , Fast and Furious , 4/8    ,
 Ford        , Mustang                , 2007 , red         , 198/250 , Art cars         , 8/10   ,
@@ -32,6 +35,7 @@ Ford        , Mustang 2+2 Fastback   , 1965 , blue        , 242/250 , Workshop  
 Ford        , Mustang Custom         , 2012 , blue        , 240/250 , Workshop         ,        , it's blue and green
 Ford        , Mustang GT             , 2010 , yellow      , 60/250  , Mild to wild     , 5/10   ,
 Ford        , Mustang GT             , 2015 , red         , 100/250 , City             ,        ,
+Ford        , Mustang GT             , 2015 , white       , 121/250 , Muscle mania     , 1/10   ,
 Ford        , Shelby GT500           , 2010 , white       , 11/250  , City             ,        , with so many printed logos
 Ford        , Torino Talladega       , 1969 , blue        , 183/250 , Speed Graphics   , 8/10   ,
 Ford        , Torino Talladega       , 1969 , white       , 183/250 , Speed Graphics   , 8/10   ,
@@ -73,6 +77,7 @@ Hot Wheels  , Rev rod                ,      , silver      , 42/250  , Super chro
 Hot Wheels  , Rig Storm              ,      , red         , 175/250 , Race             ,        ,
 Hot Wheels  , Specyte                ,      , blue        , 54/250  , Glow wheels      , 9/10   ,
 Hot Wheels  , Super Volt             ,      , white       , 243/250 , Green speed      , 3/5    ,
+Hot Wheels  , The vanster            ,      , blue        , 128/250 , Race             ,        ,
 Hot Wheels  , Turbot                 ,      , blue        , 209/250 , Street beasts    , 9/10   , I was looking for you
 Hot Wheels  , Turbot                 ,      , red         , 209/250 , Street beasts    , 9/10   , red version of I was looking for
 Hot Wheels  , Twinduction            ,      , black       , 46/250  , Glow wheels      , 1/10   ,
@@ -80,6 +85,7 @@ Hot Wheels  , Vandetta               ,      , purple      , 16/250  , X-raycers 
 Hot Wheels  , Velocita               ,      , blue        , 150/250 , Race             ,        , Hot wheels painted logo
 Hot Wheels  , Z-Rod                  ,      , silver      , 45/350  , Super chromes    , 10/10  ,
 Lamborghini , Sesto Elemento         ,      , green       , 198/250 , Workshop         ,        ,
+Lamborghini , Urus                   ,      , blue        , 142/250 , Hot trucks       , 2/10   ,
 Matchbox    , Deep Diver             ,      , green       , 110/120 , MBX Explorers    ,        ,
 Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Construction ,        , it's white cabine and blue tank
 Mazda       , MX-5 Miata             , 2015 , red         , 88/250  , Night burnerz    , 8/10   ,
