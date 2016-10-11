@@ -5,6 +5,7 @@ Buick       , Riviera                , 1971 , red         , 15/250  , City      
 Cadillac    , Monte Carlo            , 1986 , black       , 230/250 , Workshop         ,        ,
 Chevrolet   , Camaro                 , 1969 , white       , 241/250 , Workshop         ,        , no roof
 Chevrolet   , Camaro SS              , 2010 , purple      . 59/250  , Mild to wild     , 4/10   , 
+Chevrolet   , Camaro SS              , 2016 , blue        , 129/250 , Muscle mania     , 9/10   , Forza Motorsport
 Chevrolet   , Camaro Special Edition , 2013 , purple      , 232/250 , Workshop         ,        ,
 Chevrolet   , Chevelle               , 1969 , green       , 140/250 , Race             ,        , big 55 on the side
 Chevrolet   , Chevelle SS 396        , 1967 , purple      , 232/250 , Workshop         ,        ,
@@ -26,6 +27,7 @@ Dodge       , Charger 500            , 1969 , red         , 84/250  , Night burn
 Dodge       , Charger SRT            , 2015 , red         , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Charger SRT            , 2015 , white       , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Coronet Superbee       , 1969 , purple      , 212/250 , Workshop         ,        , with green flames
+Ford        , Escort RS1600          , 1970 , red         , 185/250 , Speed Graphics   , 10/10  ,
 Ford        , Fiesta                 , 2012 , blue        , 157/250 , Snow Stormers    , 2/5    ,
 Ford        , Fiesta                 , 2012 , green       , 78/250  , Off-road         ,        , many painted logos
 Ford        , Galaxie 500            , 1964 , green       , 250/250 , Workshop         ,        ,
@@ -36,6 +38,7 @@ Ford        , Mustang Custom         , 2012 , blue        , 240/250 , Workshop  
 Ford        , Mustang GT             , 2010 , yellow      , 60/250  , Mild to wild     , 5/10   ,
 Ford        , Mustang GT             , 2015 , red         , 100/250 , City             ,        ,
 Ford        , Mustang GT             , 2015 , white       , 121/250 , Muscle mania     , 1/10   ,
+Ford        , Shelby GT350R          ,      , blue        , 87/250  , Night burnerz    , 7/10   ,
 Ford        , Shelby GT500           , 2010 , white       , 11/250  , City             ,        , with so many printed logos
 Ford        , Torino Talladega       , 1969 , blue        , 183/250 , Speed Graphics   , 8/10   ,
 Ford        , Torino Talladega       , 1969 , white       , 183/250 , Speed Graphics   , 8/10   ,
@@ -56,6 +59,7 @@ Hot Wheels  , Chicane                ,      , silver      , 162/250 , Race      
 Hot Wheels  , Chill Mill             ,      , blue        , 171/250 , City works       , 6/10   ,
 Hot Wheels  , Chill Mill             ,      , white       , 171/250 , City             ,        ,
 Hot Wheels  , Cloak and dagger       ,      , green       , 17/250  , X-raycers        , 7/10   , covered tires
+Hot Wheels  , Combat Medic           ,      , orange      , 196/250 , Art cars         , 6/10   , looks like a comic page
 Hot Wheels  , Cool One               ,      , blue        , 3/250   , City             ,        , ice cream yummy
 Hot Wheels  , Cool One               ,      , white       , 3/250   , City             ,        , ice cream yummy
 Hot Wheels  , Epic Fast              ,      , white       , 170/250 , Race             ,        ,
@@ -83,7 +87,7 @@ Hot Wheels  , Turbot                 ,      , red         , 209/250 , Street bea
 Hot Wheels  , Twinduction            ,      , black       , 46/250  , Glow wheels      , 1/10   ,
 Hot Wheels  , Vandetta               ,      , purple      , 16/250  , X-raycers        , 6/10   ,
 Hot Wheels  , Velocita               ,      , blue        , 150/250 , Race             ,        , Hot wheels painted logo
-Hot Wheels  , Z-Rod                  ,      , silver      , 45/350  , Super chromes    , 10/10  ,
+Hot Wheels  , Z-Rod                  ,      , silver      , 45/250  , Super chromes    , 10/10  ,
 Lamborghini , Sesto Elemento         ,      , green       , 198/250 , Workshop         ,        ,
 Lamborghini , Urus                   ,      , blue        , 142/250 , Hot trucks       , 2/10   ,
 Matchbox    , Deep Diver             ,      , green       , 110/120 , MBX Explorers    ,        ,
