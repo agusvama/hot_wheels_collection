@@ -1,6 +1,3 @@
-Lincoln     , Continental            , 1964 , brown       , 15/250  , Art cars         , 2/10 ,
-Hot Wheels  , Boom Box               ,      , blue        , 199/250 , Art cars         , 9/10 ,
-Hot Wheels  , Zotic                  ,      , white       , 37/250  , Art cars         , 3/10 ,
 Buick       , Grand National         ,      , black       ,         , Fast and Furious , 6/8    ,
 Buick       , Riviera                , 1964 , purple      , 238/250 , Showroom         ,        ,
 Buick       , Riviera                , 1971 , green       , 15/250  , City             ,        , big G on side
@@ -11,10 +8,12 @@ Chevrolet   , Camaro SS              , 2010 , purple      . 59/250  , Mild to wi
 Chevrolet   , Camaro SS              , 2016 , blue        , 129/250 , Muscle mania     , 9/10   , Forza Motorsport
 Chevrolet   , Camaro Special Edition , 2013 , purple      , 232/250 , Workshop         ,        ,
 Chevrolet   , Chevelle               , 1969 , green       , 140/250 , Race             ,        , big 55 on the side
+Chevrolet   , Chevelle SS            , 1970 , gray        ,         , Fast and Furious ,      , don't know the number since it was on a wrong case: Jeep Scrambler :)
 Chevrolet   , Chevelle SS 396        , 1967 , purple      , 232/250 , Workshop         ,        ,
 Chevrolet   , Chevy II               , 1963 , blue        , 128/250 , Muscle mania     , 8/10   ,
 Chevrolet   , Chevy II               , 1963 , wine        , 128/250 , Muscle mania     , 8/10   ,
 Chevrolet   , Chevy luv              , 1972 , red         , 148/250 , Hot trucks       , 8/10   ,
+Chevrolet   , Copo Camaro            , 2013 , red         , 229/250 , Workshop         ,      , ,
 Chevrolet   , Corvette Stingray      , 2014 , yellow      , 216/250 , Workshop         ,        ,
 Chevrolet   , El Camino              , 1971 , black       , 18/250  , City             ,        ,
 Chevrolet   , El Camino              , 1971 , purple      , 18/250  , City             ,        ,
@@ -36,6 +35,7 @@ Ford        , Escort RS1600          , 1970 , red         , 185/250 , Speed Grap
 Ford        , Fiesta                 , 2012 , blue        , 157/250 , Snow Stormers    , 2/5    ,
 Ford        , Fiesta                 , 2012 , green       , 78/250  , Off-road         ,        , many painted logos
 Ford        , Galaxie 500            , 1964 , green       , 250/250 , Workshop         ,        ,
+Ford        , Gran Torino Sport      , 1972 , white       , 248/250 , Workshop         ,      , ,
 Ford        , Grand Torino Sport     , 1972 , green       ,         , Fast and Furious , 4/8    ,
 Ford        , Mustang                , 2007 , red         , 198/250 , Art cars         , 8/10   ,
 Ford        , Mustang 2+2 Fastback   , 1965 , blue        , 242/250 , Workshop         ,        ,
@@ -57,6 +57,7 @@ Hot Wheels  , Backdrafter            ,      , yellow      , 5/250   , City      
 Hot Wheels  , Baja Bone Shaker       ,      , green       , 62/250  , Mild to wild     , 7/10   ,
 Hot Wheels  , Blitzspeeder           ,      , blue        , 20/250  , X-raycers        , 10/10  ,
 Hot Wheels  , Bone Speeder           ,      , blue        , 7/250   , Race team        , 7/10   ,
+Hot Wheels  , Boom Box               ,      , blue        , 199/250 , Art cars         , 9/10 , ,
 Hot Wheels  , Brick Cutter           ,      , blue        ,         , Blings           , 55/100 ,
 Hot Wheels  , Bullet Proof           ,      , green       , 15/250  , X-raycers        , 5/10   ,
 Hot Wheels  , Chicane                ,      , green       , 55/230  , Glow wheels      , 10/10  ,
@@ -95,9 +96,11 @@ Hot Wheels  , Twinduction            ,      , black       , 46/250  , Glow wheel
 Hot Wheels  , Vandetta               ,      , purple      , 16/250  , X-raycers        , 6/10   ,
 Hot Wheels  , Velocita               ,      , blue        , 150/250 , Race             ,        , Hot wheels painted logo
 Hot Wheels  , Z-Rod                  ,      , silver      , 45/250  , Super chromes    , 10/10  ,
+Hot Wheels  , Zotic                  ,      , white       , 37/250  , Art cars         , 3/10 , ,
 Lamborghini , Sesto Elemento         ,      , blue        , 80/250  , Exotics          , 10/10  ,
 Lamborghini , Sesto Elemento         ,      , green       , 198/250 , Workshop         ,        ,
 Lamborghini , Urus                   ,      , blue        , 142/250 , Hot trucks       , 2/10   ,
+Lincoln     , Continental            , 1964 , brown       , 15/250  , Art cars         , 2/10 , ,
 Matchbox    , Deep Diver             ,      , green       , 110/120 , MBX Explorers    ,        ,
 Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Construction ,        , it's white cabine and blue tank
 Mazda       , MX-5 Miata             , 2015 , red         , 88/250  , Night burnerz    , 8/10   ,
