@@ -12,6 +12,7 @@ Chevrolet   , Camaro Special Edition , 2013 , purple      , 232/250 , Workshop  
 Chevrolet   , Chevelle               , 1969 , green       , 140/250 , Race             ,        , big 55 on the side
 Chevrolet   , Chevelle SS            , 1970 , gray        ,         , Fast and Furious ,      , don't know the number since it was on a wrong case: Jeep Scrambler :)
 Chevrolet   , Chevelle SS 396        , 1967 , purple      , 232/250 , Workshop         ,        ,
+Chevrolet   , Chevy C10              , 1967 , blue        , 143/250 , Hot trucks       , 3/10   ,
 Chevrolet   , Chevy II               , 1963 , blue        , 128/250 , Muscle mania     , 8/10   ,
 Chevrolet   , Chevy II               , 1963 , wine        , 128/250 , Muscle mania     , 8/10   ,
 Chevrolet   , Chevy luv              , 1972 , red         , 148/250 , Hot trucks       , 8/10   ,
@@ -33,6 +34,7 @@ Dodge       , Charger 500            , 1969 , red         , 84/250  , Night burn
 Dodge       , Charger SRT            , 2015 , red         , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Charger SRT            , 2015 , white       , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Coronet Superbee       , 1969 , purple      , 212/250 , Workshop         ,        , with green flames
+Fiat        , 500                    ,      , white       , 25/250  , City             ,        ,
 Ford        , Escort RS1600          , 1970 , red         , 185/250 , Speed Graphics   , 10/10  ,
 Ford        , Fiesta                 , 2012 , blue        , 157/250 , Snow Stormers    , 2/5    ,
 Ford        , Fiesta                 , 2012 , green       , 78/250  , Off-road         ,        , many painted logos
@@ -45,6 +47,7 @@ Ford        , Mustang Custom         , 2012 , blue        , 240/250 , Workshop  
 Ford        , Mustang GT             , 2010 , yellow      , 60/250  , Mild to wild     , 5/10   ,
 Ford        , Mustang GT             , 2015 , red         , 100/250 , City             ,        ,
 Ford        , Mustang GT             , 2015 , white       , 121/250 , Muscle mania     , 1/10   ,
+Ford        , Mustang GT Convertible , 2015 , red         , 7/365   , Factory fresh    , 2/10   ,
 Ford        , Shelby GT350R          ,      , blue        , 87/250  , Night burnerz    , 7/10   ,
 Ford        , Shelby GT500           , 2010 , white       , 11/250  , City             ,        , with so many printed logos
 Ford        , Torino Talladega       , 1969 , blue        , 183/250 , Speed Graphics   , 8/10   ,
@@ -90,7 +93,9 @@ Hot Wheels  , Rev rod                ,      , golden      , 42/250  , Super chro
 Hot Wheels  , Rev rod                ,      , silver      , 42/250  , Super chromes    , 7/10   ,
 Hot Wheels  , Rig Storm              ,      , red         , 175/250 , Race             ,        ,
 Hot Wheels  , Specyte                ,      , blue        , 54/250  , Glow wheels      , 9/10   ,
+Hot Wheels  , Super Van              ,      , blue        , 49/250  , City             ,        , SWAT 
 Hot Wheels  , Super Volt             ,      , white       , 243/250 , Green speed      , 3/5    ,
+Hot Wheels  , Tarmac Attack          ,      , purple      , 29/365  , Tooned           , 9/10   ,
 Hot Wheels  , The vanster            ,      , blue        , 128/250 , Race             ,        ,
 Hot Wheels  , Turbot                 ,      , blue        , 209/250 , Street beasts    , 9/10   , I was looking for you
 Hot Wheels  , Turbot                 ,      , red         , 209/250 , Street beasts    , 9/10   , red version of I was looking for
