@@ -47,6 +47,7 @@ Ford        , Mustang Custom         , 2012 , blue        , 240/250 , Workshop  
 Ford        , Mustang GT             , 2010 , yellow      , 60/250  , Mild to wild     , 5/10   ,
 Ford        , Mustang GT             , 2015 , red         , 100/250 , City             ,        ,
 Ford        , Mustang GT             , 2015 , white       , 121/250 , Muscle mania     , 1/10   ,
+Ford        , Mustang GT Convertible , 2015 , blue        , 104/365 , Factory fresh    , 2/10   ,
 Ford        , Mustang GT Convertible , 2015 , red         , 7/365   , Factory fresh    , 2/10   ,
 Ford        , Shelby GT350R          ,      , blue        , 87/250  , Night burnerz    , 7/10   ,
 Ford        , Shelby GT500           , 2010 , white       , 11/250  , City             ,        , with so many printed logos
@@ -80,6 +81,7 @@ Hot Wheels  , F1 Racer               ,      , blue        , 47/250  , Glow wheel
 Hot Wheels  , Fast Gassin            ,      , green       , 167/250 , City works       , 2/10   ,
 Hot Wheels  , HW40                   ,      , black       , 157/250 , Race             ,        ,
 Hot Wheels  , High Voltage           ,      , silver      , 156/250 , Race             ,        ,
+Hot Wheels  , Hiway Hauler 2         ,      , yellow      , 28/150  , City             ,        , Big grafitti on the payload
 Hot Wheels  , Loop Coupe             ,      , wine        , 53/250  , Glow wheels      , 8/10   ,
 Hot Wheels  , Nerve Hammer           ,      , transparent , 139/250 , Race             ,        , it's transparent with red details
 Hot Wheels  , Night Shifter          ,      , blue        , 10/250  , Race team        , 10/10  ,
@@ -104,11 +106,12 @@ Hot Wheels  , Twinduction            ,      , black       , 46/250  , Glow wheel
 Hot Wheels  , Vandetta               ,      , purple      , 16/250  , X-raycers        , 6/10   ,
 Hot Wheels  , Velocita               ,      , blue        , 150/250 , Race             ,        , Hot wheels painted logo
 Hot Wheels  , Z-Rod                  ,      , silver      , 45/250  , Super chromes    , 10/10  ,
-Hot Wheels  , Zotic                  ,      , white       , 37/250  , Art cars         , 3/10 , ,
+Hot Wheels  , Zotic                  ,      , white       , 37/250  , Art cars         , 3/10   ,
 Lamborghini , Sesto Elemento         ,      , blue        , 80/250  , Exotics          , 10/10  ,
 Lamborghini , Sesto Elemento         ,      , green       , 198/250 , Workshop         ,        ,
 Lamborghini , Urus                   ,      , blue        , 142/250 , Hot trucks       , 2/10   ,
-Lincoln     , Continental            , 1964 , brown       , 15/250  , Art cars         , 2/10 , ,
+Lincoln     , Continental            , 1964 , blue        , 110/365  , Art cars         , 2/10   ,
+Lincoln     , Continental            , 1964 , brown       , 15/250  , Art cars         , 2/10   ,
 Matchbox    , Deep Diver             ,      , green       , 110/120 , MBX Explorers    ,        ,
 Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Construction ,        , it's white cabine and blue tank
 Mazda       , MX-5 Miata             , 2015 , red         , 88/250  , Night burnerz    , 8/10   ,
@@ -116,3 +119,4 @@ Mercury     , Cyclone                , 1969 , green       , 100/250 , Flames    
 Nissan      , Skyline H/T 2000GT-X   ,      , black       , 225/250 , Workshop         ,        ,     
 Pontiac     , GTO                    , 1967 , blue        , 228/250 , Workshop         ,        ,
 Porsche     , 911 GT3 RS             ,      , yellow      , 196/250 , Workshop         ,        ,
+Volkswagen  , Golf MK7               ,      , yellow      , 16/365  , Art cars         , 6/10   , CRASH!
