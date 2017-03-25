@@ -21,6 +21,7 @@ Chevrolet   , Corvette Stingray      , 2014 , yellow      , 216/250 , Workshop  
 Chevrolet   , El Camino              , 1971 , black       , 18/250  , City             ,        ,
 Chevrolet   , El Camino              , 1971 , purple      , 18/250  , City             ,        ,
 Chevrolet   , Impala                 , 1965 , white       , 191/250 , Art cars         , 1/10   , cool black paint
+Chevrolet   , Silverado              ,      , white       , 60/365  , Hot trucks       , 10/10  , with cool red lines
 Chevrolet   , Silverado              , 1983 , yellow      , 136/250 , Off-road         ,        ,
 Chrysler    , 300C                   ,      , black       , 194/250 , Art cars         , 4/10   , big tire truck with paint splashes
 Chrysler    , Plymouth AAR Cuda      , 1970 , purple      , 199/250 , Workshop         ,        ,
@@ -31,9 +32,11 @@ Dodge       , Charger 500            , 1969 , blue        , 19/250  , City      
 Dodge       , Charger 500            , 1969 , green       , 84/250  , Night burnerz    , 4/10   ,
 Dodge       , Charger 500            , 1969 , purple      , 19/250  , City             ,        , HEMI 50 years
 Dodge       , Charger 500            , 1969 , red         , 84/250  , Night burnerz    , 4/10   ,
+Dodge       , Charger 500            , 1969 , yellow      , 95/365  , Muscle mania     , 6/10   , Mooneyes
 Dodge       , Charger SRT            , 2015 , red         , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Charger SRT            , 2015 , white       , 130/250 , Muscle mania     , 10/10  ,
 Dodge       , Coronet Superbee       , 1969 , purple      , 212/250 , Workshop         ,        , with green flames
+Dodge       , Custom Van             , 1977 , yellow      , 20/250  , City             ,        , Mooneyes
 Fiat        , 500                    ,      , white       , 25/250  , City             ,        ,
 Ford        , Escort RS1600          , 1970 , red         , 185/250 , Speed Graphics   , 10/10  ,
 Ford        , Fiesta                 , 2012 , blue        , 157/250 , Snow Stormers    , 2/5    ,
@@ -55,6 +58,7 @@ Ford        , Torino Talladega       , 1969 , blue        , 183/250 , Speed Grap
 Ford        , Torino Talladega       , 1969 , white       , 183/250 , Speed Graphics   , 8/10   ,
 Honda       , CR-X                   , 1985 , red         , 85/250  , Night burnerz    , 5/10   ,
 Hot Wheels  , 16 Angels              ,      , pink        , 168/250 , Race             ,        , cool pink color
+Hot Wheels  , 16 Angels              ,      , yellow      , 52/365  , Holiday racers   , 2/5    , 
 Hot Wheels  , 5 Alarm                ,      , red         , 6/166   ,                  ,        ,
 Hot Wheels  , Arrow Dynamic          ,      , blue        , 52/250  , Glow wheels      , 7/10   ,
 Hot Wheels  , Astro Funk             ,      , lemon       ,         , Cool classics    , 17/30  , Spectrafrost paint and metal/metal
@@ -96,6 +100,7 @@ Hot Wheels  , Rev rod                ,      , silver      , 42/250  , Super chro
 Hot Wheels  , Rig Storm              ,      , red         , 175/250 , Race             ,        ,
 Hot Wheels  , Rocket Box             ,      , yellow      , 38/365  , Art cars         , 10/10  , 
 Hot Wheels  , Specyte                ,      , blue        , 54/250  , Glow wheels      , 9/10   ,
+Hot Wheels  , Speed Spider           ,      , green       , 205/250 , Street beasts    , 5/10   , it looks like a spider!
 Hot Wheels  , Super Van              ,      , blue        , 49/250  , City             ,        , SWAT 
 Hot Wheels  , Super Volt             ,      , white       , 243/250 , Green speed      , 3/5    ,
 Hot Wheels  , Tarmac Attack          ,      , purple      , 29/365  , Tooned           , 9/10   ,
@@ -117,6 +122,7 @@ Matchbox    , H20 HLX                ,      , white       , 22/120  , MBX Constr
 Mazda       , MX-5 Miata             , 2015 , red         , 88/250  , Night burnerz    , 8/10   ,
 Mercury     , Cyclone                , 1969 , green       , 100/250 , Flames           , 10/10  , 
 Nissan      , Skyline H/T 2000GT-X   ,      , black       , 225/250 , Workshop         ,        ,     
+Pontiac     , Bonneville             , 1965 , purple      , 35/250  , City             ,        , graffiti included
 Pontiac     , GTO                    , 1967 , blue        , 228/250 , Workshop         ,        ,
 Porsche     , 911 GT3 RS             ,      , yellow      , 196/250 , Workshop         ,        ,
 Volkswagen  , Golf MK7               ,      , yellow      , 16/365  , Art cars         , 6/10   , CRASH!
