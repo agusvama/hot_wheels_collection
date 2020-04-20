@@ -13,19 +13,19 @@ Chevrolet    , Camaro Special Edition   , 2013 , purple      , Workshop         
 Chevrolet    , Camaro ZL1               , 2017 , red         , Camaro Fifty       ,
 Chevrolet    , Chevelle                 , 1969 , green       , Race               , big 55 on the side
 Chevrolet    , Chevelle                 , 1970 , orange      , Nightburnerz       ,
-Chevrolet    , Chevelle SS              , 1964 , green       , Speed Blur
-Chevrolet    , Chevelle SS              , 1970 , gray        , Fast and Furious   , don't know the number since it was on a wrong case: Jeep Scrambler :)
+Chevrolet    , Chevelle SS              , 1964 , green       , Speed Blur         ,
+Chevrolet    , Chevelle SS              , 1970 , gray        , Fast and Furious   , don't know the number since it was in a wrong case: Jeep Scrambler :)
 Chevrolet    , Chevelle SS 396          , 1967 , purple      , Workshop           ,
 Chevrolet    , Chevelle SS 396          , 1969 , yellow      , Muscle Mania       ,
 Chevrolet    , Chevy C10                , 1967 , blue        , Hot trucks         ,
 Chevrolet    , Chevy II                 , 1963 , blue        , Muscle mania       ,
 Chevrolet    , Chevy II                 , 1963 , wine        , Muscle mania       ,
 Chevrolet    , Chevy luv                , 1972 , red         , Hot trucks         ,
-Chevrolet    , Copo Camaro              , 2013 , red         , Workshop           ,                          
+Chevrolet    , Copo Camaro              , 2013 , red         , Workshop           ,
 Chevrolet    , Corvette Stingray        , 2014 , yellow      , Workshop           ,
 Chevrolet    , El Camino                , 1971 , black       , City               ,
 Chevrolet    , El Camino                , 1971 , purple      , City               ,
-Chevrolet    , Impala                   , 1964 , white       , Art cars
+Chevrolet    , Impala                   , 1964 , white       , Art cars           ,
 Chevrolet    , Impala                   , 1965 , white       , Art cars           , cool black paint
 Chevrolet    , Silverado                ,      , white       , Hot trucks         , with cool red lines
 Chevrolet    , Silverado                , 1983 , yellow      , Off-road           ,
@@ -43,6 +43,7 @@ Dodge        , Charger 500              , 1969 , red         , Night burnerz    
 Dodge        , Charger 500              , 1969 , yellow      , Muscle mania       , Mooneyes
 Dodge        , Charger SRT              , 2015 , red         , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , white       , Muscle mania       ,
+Dodge        , Charger SRT              , 2015 , purple      , Muscle mania       ,
 Dodge        , Coronet Superbee         , 1969 , purple      , Workshop           , with green flames
 Dodge        , Custom Van               , 1977 , yellow      , City               , Mooneyes
 Dodge        , Viper                    ,      , yellow      , Then and now       ,
@@ -57,7 +58,7 @@ Ford         , F-150 Raptor             , 2017 , yellow      , Hot trucks       
 Ford         , Fiesta                   , 2012 , blue        , Snow Stormers      ,
 Ford         , Fiesta                   , 2012 , green       , Off-road           , many painted logos
 Ford         , Galaxie 500              , 1964 , green       , Workshop           ,
-Ford         , Gran Torino Sport        , 1972 , white       , Workshop           ,                          
+Ford         , Gran Torino Sport        , 1972 , white       , Workshop           ,
 Ford         , Grand Torino Sport       , 1972 , green       , Fast and Furious   ,
 Ford         , Mustang                  , 2007 , red         , Art cars           ,
 Ford         , Mustang 2+2 Fastback     , 1965 , blue        , Workshop           ,
@@ -72,7 +73,9 @@ Ford         , Shelby GT350R            ,      , yellow      , Muscle Mania     
 Ford         , Shelby GT500             , 2010 , white       , City               , with so many printed logos
 Ford         , Torino Talladega         , 1969 , blue        , Speed graphics     ,
 Ford         , Torino Talladega         , 1969 , white       , Speed graphics     ,
+Ford         , Focus RS                 ,      , blue        , Art cars           ,
 Honda        , CR-X                     , 1985 , red         , Night burnerz      ,
+Honda        , Civic Type R             , 2016 , red         , Speed graphics     ,
 Hot Wheels   , 16 Angels                ,      , pink        , Race               , cool pink color
 Hot Wheels   , 16 Angels                ,      , yellow      , Holiday racers     ,
 Hot Wheels   , 5 Alarm                  ,      , red         ,                    ,
@@ -103,8 +106,12 @@ Hot Wheels   , Epic Fast                ,      , white       , Race             
 Hot Wheels   , F1 Racer                 ,      , blue        , Glow wheels        ,
 Hot Wheels   , Fast Gassin              ,      , green       , City works         ,
 Hot Wheels   , HW40                     ,      , black       , Race               ,
+Hot Wheels   , Hot Wheels High          ,      , yellow      , Metro              , scholar bus
+Hot Wheels   , Sandivore                ,      , red         , Glow wheels        ,
+Hot Wheels   , Sandivore                ,      , blue        , Glow wheels        ,
 Hot Wheels   , High Voltage             ,      , silver      , Race               ,
 Hot Wheels   , Hiway Hauler 2           ,      , yellow      , City               , Big grafitti on the payload
+Hot Wheels   , Hiway Hauler 2           ,      , white       , City               , Big grafitti on the payload
 Hot Wheels   , Loop Coupe               ,      , wine        , Glow wheels        ,
 Hot Wheels   , Morris Mini              ,      , blue        , Snow Stormers      ,
 Hot Wheels   , Nerve Hammer             ,      , transparent , Race               , it's transparent with red details
@@ -128,7 +135,9 @@ Hot Wheels   , Super Van                ,      , blue        , City             
 Hot Wheels   , Super Volt               ,      , white       , Green speed        ,
 Hot Wheels   , Tarmac Attack            ,      , purple      , Tooned             ,
 Hot Wheels   , The Haulinator           ,      , blue        , City works         ,
+Hot Wheels   , The Haulinator           ,      , purple      , Experimotors       ,
 Hot Wheels   , The Haulinator           ,      , yellow      , City works         ,
+Hot Wheels   , Streett Stealth          ,      , purple      , Moto               ,
 Hot Wheels   , The vanster              ,      , blue        , Race               ,
 Hot Wheels   , Turbot                   ,      , blue        , Street beasts      , I was looking for you
 Hot Wheels   , Turbot                   ,      , purple      , Experimotors       , purple version of I was looking for
@@ -160,3 +169,9 @@ Volkswagen   , Beetle                   ,      , yellow      , Tooned           
 Volkswagen   , Golf MK2                 ,      , orange      , Then and now       , Golfito :)
 Volkswagen   , Golf MK2                 ,      , yellow      , Then and now       , Golfito :)
 Volkswagen   , Golf MK7                 ,      , yellow      , Art cars           , CRASH!
+Hot Wheels   , Kool Kombi               ,      , purple      , Art cars           , hippie combi
+Ford         , Fiesta                   , 2012 , white       , Checkmate          , pawn
+Volkswagen   , Beetle                   ,      , white       , Checkmate          , pawn
+Ford         , F-150                    , 2015 , yellow      , Rescue             ,
+Volkswagen   , Beetle                   ,      , teal        , Tooned             ,
+
