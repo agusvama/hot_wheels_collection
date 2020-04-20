@@ -41,9 +41,9 @@ Dodge        , Charger 500              , 1969 , green       , Night burnerz    
 Dodge        , Charger 500              , 1969 , purple      , City               , HEMI 50 years
 Dodge        , Charger 500              , 1969 , red         , Night burnerz      ,
 Dodge        , Charger 500              , 1969 , yellow      , Muscle mania       , Mooneyes
+Dodge        , Charger SRT              , 2015 , purple      , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , red         , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , white       , Muscle mania       ,
-Dodge        , Charger SRT              , 2015 , purple      , Muscle mania       ,
 Dodge        , Coronet Superbee         , 1969 , purple      , Workshop           , with green flames
 Dodge        , Custom Van               , 1977 , yellow      , City               , Mooneyes
 Dodge        , Viper                    ,      , yellow      , Then and now       ,
@@ -54,9 +54,12 @@ Ford         , F-150                    , 2009 , blue        , Race team        
 Ford         , F-150                    , 2015 , blue        , Speed graphics     , K&N
 Ford         , F-150                    , 2015 , white       , Speed graphics     , K&N
 Ford         , F-150                    , 2015 , yellow      , Rescue             ,
+Ford         , F-150                    , 2015 , yellow      , Rescue             ,
 Ford         , F-150 Raptor             , 2017 , yellow      , Hot trucks         ,
 Ford         , Fiesta                   , 2012 , blue        , Snow Stormers      ,
 Ford         , Fiesta                   , 2012 , green       , Off-road           , many painted logos
+Ford         , Fiesta                   , 2012 , white       , Checkmate          , pawn
+Ford         , Focus RS                 ,      , blue        , Art cars           ,
 Ford         , Galaxie 500              , 1964 , green       , Workshop           ,
 Ford         , Gran Torino Sport        , 1972 , white       , Workshop           ,
 Ford         , Grand Torino Sport       , 1972 , green       , Fast and Furious   ,
@@ -73,7 +76,6 @@ Ford         , Shelby GT350R            ,      , yellow      , Muscle Mania     
 Ford         , Shelby GT500             , 2010 , white       , City               , with so many printed logos
 Ford         , Torino Talladega         , 1969 , blue        , Speed graphics     ,
 Ford         , Torino Talladega         , 1969 , white       , Speed graphics     ,
-Ford         , Focus RS                 ,      , blue        , Art cars           ,
 Honda        , CR-X                     , 1985 , red         , Night burnerz      ,
 Honda        , Civic Type R             , 2016 , red         , Speed graphics     ,
 Hot Wheels   , 16 Angels                ,      , pink        , Race               , cool pink color
@@ -106,12 +108,11 @@ Hot Wheels   , Epic Fast                ,      , white       , Race             
 Hot Wheels   , F1 Racer                 ,      , blue        , Glow wheels        ,
 Hot Wheels   , Fast Gassin              ,      , green       , City works         ,
 Hot Wheels   , HW40                     ,      , black       , Race               ,
-Hot Wheels   , Hot Wheels High          ,      , yellow      , Metro              , scholar bus
-Hot Wheels   , Sandivore                ,      , red         , Glow wheels        ,
-Hot Wheels   , Sandivore                ,      , blue        , Glow wheels        ,
 Hot Wheels   , High Voltage             ,      , silver      , Race               ,
-Hot Wheels   , Hiway Hauler 2           ,      , yellow      , City               , Big grafitti on the payload
 Hot Wheels   , Hiway Hauler 2           ,      , white       , City               , Big grafitti on the payload
+Hot Wheels   , Hiway Hauler 2           ,      , yellow      , City               , Big grafitti on the payload
+Hot Wheels   , Hot Wheels High          ,      , yellow      , Metro              , scholar bus
+Hot Wheels   , Kool Kombi               ,      , purple      , Art cars           , hippie combi
 Hot Wheels   , Loop Coupe               ,      , wine        , Glow wheels        ,
 Hot Wheels   , Morris Mini              ,      , blue        , Snow Stormers      ,
 Hot Wheels   , Nerve Hammer             ,      , transparent , Race               , it's transparent with red details
@@ -127,17 +128,19 @@ Hot Wheels   , Rev rod                  ,      , silver      , Super chromes    
 Hot Wheels   , Rig Storm                ,      , red         , Race               ,
 Hot Wheels   , Rigor Motor              ,      , red         , Fright cars        ,
 Hot Wheels   , Rocket Box               ,      , yellow      , Art cars           ,
+Hot Wheels   , Sandivore                ,      , blue        , Glow wheels        ,
+Hot Wheels   , Sandivore                ,      , red         , Glow wheels        ,
 Hot Wheels   , Solid Muscle             ,      , blue        , HW Digital Circuit ,
 Hot Wheels   , Solid Muscle             ,      , red         , HW Digital Circuit ,
 Hot Wheels   , Specyte                  ,      , blue        , Glow wheels        ,
 Hot Wheels   , Speed Spider             ,      , green       , Street beasts      , it looks like a spider!
+Hot Wheels   , Streett Stealth          ,      , purple      , Moto               ,
 Hot Wheels   , Super Van                ,      , blue        , City               , SWAT
 Hot Wheels   , Super Volt               ,      , white       , Green speed        ,
 Hot Wheels   , Tarmac Attack            ,      , purple      , Tooned             ,
 Hot Wheels   , The Haulinator           ,      , blue        , City works         ,
 Hot Wheels   , The Haulinator           ,      , purple      , Experimotors       ,
 Hot Wheels   , The Haulinator           ,      , yellow      , City works         ,
-Hot Wheels   , Streett Stealth          ,      , purple      , Moto               ,
 Hot Wheels   , The vanster              ,      , blue        , Race               ,
 Hot Wheels   , Turbot                   ,      , blue        , Street beasts      , I was looking for you
 Hot Wheels   , Turbot                   ,      , purple      , Experimotors       , purple version of I was looking for
@@ -164,14 +167,10 @@ Pontiac      , GTO                      , 1967 , blue        , Workshop         
 Pontiac      , GTO                      , 1967 , yellow      , Muscle Mania       ,
 Porsche      , 911 GT3 RS               ,      , yellow      , Workshop           ,
 Volkswagen   , Beetle                   ,      , blue        , Tooned             ,
+Volkswagen   , Beetle                   ,      , teal        , Tooned             ,
+Volkswagen   , Beetle                   ,      , white       , Checkmate          , pawn
 Volkswagen   , Beetle                   ,      , white       , Checkmate          , pawn
 Volkswagen   , Beetle                   ,      , yellow      , Tooned             ,
 Volkswagen   , Golf MK2                 ,      , orange      , Then and now       , Golfito :)
 Volkswagen   , Golf MK2                 ,      , yellow      , Then and now       , Golfito :)
 Volkswagen   , Golf MK7                 ,      , yellow      , Art cars           , CRASH!
-Hot Wheels   , Kool Kombi               ,      , purple      , Art cars           , hippie combi
-Ford         , Fiesta                   , 2012 , white       , Checkmate          , pawn
-Volkswagen   , Beetle                   ,      , white       , Checkmate          , pawn
-Ford         , F-150                    , 2015 , yellow      , Rescue             ,
-Volkswagen   , Beetle                   ,      , teal        , Tooned             ,
-
