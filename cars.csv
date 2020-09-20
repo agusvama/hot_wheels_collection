@@ -11,6 +11,7 @@ Chevrolet    , Camaro                   , 1969 , white       , Workshop         
 Chevrolet    , Camaro SS                , 2010 , purple      , Mild to wild       ,
 Chevrolet    , Camaro SS                , 2016 , blue        , Muscle mania       , Forza Motorsport
 Chevrolet    , Camaro SS                , 2016 , white       , Camaro Fifty       ,
+Chevrolet    , Camaro SS                , 2018 , blue        ,                    , 50 years of Hot Wheels
 Chevrolet    , Camaro Special Edition   , 2013 , purple      , Workshop           ,
 Chevrolet    , Camaro ZL1               , 2017 , red         , Camaro Fifty       ,
 Chevrolet    , Chevelle                 , 1969 , green       , Race               , big 55 on the side
@@ -18,6 +19,7 @@ Chevrolet    , Chevelle                 , 1970 , orange      , Nightburnerz     
 Chevrolet    , Chevelle SS              , 1964 , green       , Speed Blur         ,
 Chevrolet    , Chevelle SS              , 1970 , gray        , Fast and Furious   , don't know the number since it was in a wrong case: Jeep Scrambler :)
 Chevrolet    , Chevelle SS 396          , 1967 , purple      , Workshop           ,
+Chevrolet    , Chevelle SS 396          , 1967 , white       , Muscle Mania       ,
 Chevrolet    , Chevelle SS 396          , 1969 , yellow      , Muscle Mania       ,
 Chevrolet    , Chevy C10                , 1967 , blue        , Hot trucks         ,
 Chevrolet    , Chevy II                 , 1963 , blue        , Muscle mania       ,
@@ -29,6 +31,7 @@ Chevrolet    , El Camino                , 1971 , black       , City             
 Chevrolet    , El Camino                , 1971 , purple      , City               ,
 Chevrolet    , Impala                   , 1964 , white       , Art cars           ,
 Chevrolet    , Impala                   , 1965 , white       , Art cars           , cool black paint
+Chevrolet    , Nova                     , 1968 , white       , Speed graphics     , Gulf
 Chevrolet    , Silverado                ,      , white       , Hot trucks         , with cool red lines
 Chevrolet    , Silverado                , 1983 , yellow      , Off-road           ,
 Chevrolet    , Silverado Trail Boost LT , 2019 , wine        , Hot trucks         ,
@@ -38,12 +41,14 @@ Chrysler     , Plymouth AAR Cuda        , 1970 , purple      , Workshop         
 Dodge        , Challenger               , 1971 , brown       , Workshop           ,
 Dodge        , Challenger               , 1971 , yellow      , Workshop           , HOTCHKIS
 Dodge        , Challenger               , 2015 , yellow      , Muscle mania       ,
+Dodge        , Challenger SRT Demon     , 2018 , wine        , Muscle mania       ,
 Dodge        , Charger                  , 1969 , yellow      , Flames             ,
 Dodge        , Charger 500              , 1969 , blue        , City               , HEMI 50 years
 Dodge        , Charger 500              , 1969 , green       , Night burnerz      ,
 Dodge        , Charger 500              , 1969 , purple      , City               , HEMI 50 years
 Dodge        , Charger 500              , 1969 , red         , Night burnerz      ,
 Dodge        , Charger 500              , 1969 , yellow      , Muscle mania       , Mooneyes
+Dodge        , Charger R/T              , 2011 , blue        , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , purple      , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , red         , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , white       , Muscle mania       ,
@@ -92,6 +97,7 @@ Hot Wheels   , Back Slider              ,      , green       , City works 11    
 Hot Wheels   , Backdrafter              ,      , yellow      , City               ,
 Hot Wheels   , Baja Bone Shaker         ,      , green       , Mild to wild       ,
 Hot Wheels   , Blitzspeeder             ,      , blue        , X-raycers          ,
+Hot Wheels   , Bogzilla                 ,      , brown       , Ride-ons           ,
 Hot Wheels   , Bone Speeder             ,      , blue        , Race team          ,
 Hot Wheels   , Bone Speeder             ,      , white       , Glow wheels        ,
 Hot Wheels   , Boom Box                 ,      , blue        , Art cars           ,
@@ -114,18 +120,23 @@ Hot Wheels   , Epic Fast                ,      , white       , Race             
 Hot Wheels   , F1 Racer                 ,      , blue        , Glow wheels        ,
 Hot Wheels   , Fast Gassin              ,      , green       , City works         ,
 Hot Wheels   , HW40                     ,      , black       , Race               ,
+Hot Wheels   , Heavy Hitcher            ,      , white       , Metro              , Asada Towing
 Hot Wheels   , High Voltage             ,      , silver      , Race               ,
 Hot Wheels   , Hiway Hauler 2           ,      , white       , City               , Big grafitti on the payload
 Hot Wheels   , Hiway Hauler 2           ,      , yellow      , City               , Big grafitti on the payload
 Hot Wheels   , Hot Wheels High          ,      , yellow      , Metro              , scholar bus
 Hot Wheels   , Kool Kombi               ,      , purple      , Art cars           , hippie combi
+Hot Wheels   , Kool Kombi               ,      , turquoise   , City               , Surf Shop
 Hot Wheels   , Loop Coupe               ,      , wine        , Glow wheels        ,
+Hot Wheels   , Mad Propz                ,      , white       , Race Team          , Plane
+Hot Wheels   , Mars Rovers Curiosity    ,      , white       , City               , 6 wheels
 Hot Wheels   , Morris Mini              ,      , blue        , Snow Stormers      ,
 Hot Wheels   , Morris Mini              ,      , red         , Nightburnerz       ,
 Hot Wheels   , Nerve Hammer             ,      , transparent , Race               , it's transparent with red details
 Hot Wheels   , Night Shifter            ,      , blue        , Race team          ,
 Hot Wheels   , Pharodox                 ,      , transparent , X-raycers          ,
 Hot Wheels   , Purrfect Speed           ,      , black       , Street beasts      , it's cat shape
+Hot Wheels   , Quick Bite               ,      , white       , Foodie             , Sushi burritos and tacos
 Hot Wheels   , RD-02                    ,      , blue        , Off-road           ,
 Hot Wheels   , RD-02                    ,      , gray        , Off-road           ,
 Hot Wheels   , RD-03                    ,      , silver      , Race               ,
@@ -135,6 +146,7 @@ Hot Wheels   , Rev rod                  ,      , silver      , Super chromes    
 Hot Wheels   , Rig Storm                ,      , red         , Race               ,
 Hot Wheels   , Rigor Motor              ,      , red         , Fright cars        ,
 Hot Wheels   , Rocket Box               ,      , yellow      , Art cars           ,
+Hot Wheels   , Rockster                 ,      , black       , Batman vs Superman , Batman
 Hot Wheels   , Sandivore                ,      , blue        , Glow wheels        ,
 Hot Wheels   , Sandivore                ,      , red         , Glow wheels        ,
 Hot Wheels   , Sky fi                   ,      , white       , Metro              ,
@@ -168,6 +180,7 @@ Lincoln      , Continental              , 1964 , blue        , Art cars         
 Lincoln      , Continental              , 1964 , brown       , Art cars           ,
 Matchbox     , Deep Diver               ,      , green       , MBX Explorers      ,
 Matchbox     , H20 HLX                  ,      , white       , MBX Construction   , it's white cabine and blue tank
+Mazda        , MX-5 Miata               , 2015 , blue        , Night burnerz      , MadMike
 Mazda        , MX-5 Miata               , 2015 , red         , Night burnerz      ,
 McLaren      , 720s                     ,      , white       , Factory fresh      ,
 Mercury      , Cyclone                  , 1969 , green       , Flames             ,
