@@ -43,11 +43,13 @@ Dodge        , Challenger               , 1971 , yellow      , Workshop         
 Dodge        , Challenger               , 2015 , yellow      , Muscle mania       ,
 Dodge        , Challenger SRT Demon     , 2018 , wine        , Muscle mania       ,
 Dodge        , Charger                  , 1969 , yellow      , Flames             ,
+Dodge        , Charger 500              , 1969 , black       , Rod squad          ,
 Dodge        , Charger 500              , 1969 , blue        , City               , HEMI 50 years
 Dodge        , Charger 500              , 1969 , green       , Night burnerz      ,
 Dodge        , Charger 500              , 1969 , purple      , City               , HEMI 50 years
 Dodge        , Charger 500              , 1969 , red         , Night burnerz      ,
 Dodge        , Charger 500              , 1969 , yellow      , Muscle mania       , Mooneyes
+Dodge        , Charger R/T              , 2011 , black       , Muscle mania       ,
 Dodge        , Charger R/T              , 2011 , blue        , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , purple      , Muscle mania       ,
 Dodge        , Charger SRT              , 2015 , red         , Muscle mania       ,
@@ -78,6 +80,7 @@ Ford         , Mustang Custom           , 2012 , blue        , Workshop         
 Ford         , Mustang GT               , 2010 , yellow      , Mild to wild       ,
 Ford         , Mustang GT               , 2015 , red         , City               ,
 Ford         , Mustang GT               , 2015 , white       , Muscle mania       ,
+Ford         , Mustang GT Convertible   , 2015 , black       , Muscle Mania       ,
 Ford         , Mustang GT Convertible   , 2015 , blue        , Factory fresh      ,
 Ford         , Mustang GT Convertible   , 2015 , red         , Factory fresh      ,
 Ford         , Shelby GT350R            ,      , blue        , Night burnerz      ,
@@ -96,6 +99,7 @@ Hot Wheels   , Astro Funk               ,      , lemon       , Cool classics    
 Hot Wheels   , Back Slider              ,      , green       , City works 11      ,
 Hot Wheels   , Backdrafter              ,      , yellow      , City               ,
 Hot Wheels   , Baja Bone Shaker         ,      , green       , Mild to wild       ,
+Hot Wheels   , Beat All                 ,      , blue        , Street beasts      ,
 Hot Wheels   , Blitzspeeder             ,      , blue        , X-raycers          ,
 Hot Wheels   , Bogzilla                 ,      , brown       , Ride-ons           ,
 Hot Wheels   , Bone Speeder             ,      , blue        , Race team          ,
@@ -110,11 +114,13 @@ Hot Wheels   , Chicane                  ,      , silver      , Race             
 Hot Wheels   , Chill Mill               ,      , blue        , City works         ,
 Hot Wheels   , Chill Mill               ,      , white       , City               ,
 Hot Wheels   , Cloak and dagger         ,      , green       , X-raycers          , covered tires
+Hot Wheels   , Cloak and dagger         ,      , white       , Checkmate          , bishop
 Hot Wheels   , Combat Medic             ,      , orange      , Art cars           , looks like a comic page
 Hot Wheels   , Cool One                 ,      , blue        , City               , ice cream yummy
 Hot Wheels   , Cool One                 ,      , white       , City               , ice cream yummy
 Hot Wheels   , Crate Racer              ,      , brown       , Experimotors       , shakes his motor when moves
 Hot Wheels   , Crate Racer              ,      , yellow      , Experimotors       , shakes his motor when moves
+Hot Wheels   , D-Muscle                 ,      , white       , HW digital circuit , Year of the monkey
 Hot Wheels   , Drifsta                  ,      , pink        , Night burnerz      , Yokohama
 Hot Wheels   , Epic Fast                ,      , white       , Race               ,
 Hot Wheels   , F1 Racer                 ,      , blue        , Glow wheels        ,
@@ -171,6 +177,7 @@ Hot Wheels   , Twinduction              ,      , black       , Glow wheels      
 Hot Wheels   , Vandetta                 ,      , purple      , X-raycers          ,
 Hot Wheels   , Velocita                 ,      , blue        , Race               , Hot wheels painted logo
 Hot Wheels   , What-4-2                 ,      , transparent , X-raycers          ,
+Hot Wheels   , Winning Formula          ,      , white       , Glow wheels        ,
 Hot Wheels   , Z-Rod                    ,      , silver      , Super chromes      ,
 Hot Wheels   , Zotic                    ,      , white       , Art cars           ,
 Lamborghini  , Sesto Elemento           ,      , blue        , Exotics            ,
@@ -182,6 +189,7 @@ Matchbox     , Deep Diver               ,      , green       , MBX Explorers    
 Matchbox     , H20 HLX                  ,      , white       , MBX Construction   , it's white cabine and blue tank
 Mazda        , MX-5 Miata               , 2015 , blue        , Night burnerz      , MadMike
 Mazda        , MX-5 Miata               , 2015 , red         , Night burnerz      ,
+McLaren      , 720s                     ,      , purple      , Exotics            ,
 McLaren      , 720s                     ,      , white       , Factory fresh      ,
 Mercury      , Cyclone                  , 1969 , green       , Flames             ,
 Nissan       , Skyline H/T 2000GT-X     ,      , black       , Workshop           ,
@@ -197,3 +205,4 @@ Volkswagen   , Beetle                   ,      , yellow      , Tooned           
 Volkswagen   , Golf MK2                 ,      , orange      , Then and now       , Golfito :)
 Volkswagen   , Golf MK2                 ,      , yellow      , Then and now       , Golfito :)
 Volkswagen   , Golf MK7                 ,      , yellow      , Art cars           , CRASH!
+Volkswagen   , Käfer Racer              ,      , black       , Volkswagen         , Mooneyes
